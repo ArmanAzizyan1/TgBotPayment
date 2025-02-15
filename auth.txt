@@ -1,0 +1,10 @@
+{
+    "id": null,
+    "succeeded": true,
+    "message": null,
+    "exceptionCode": null,
+    "value": {
+        "serverId": 56019,
+        "localId": "d25d8185-30bb-4fbc-8cc3-28129c3ba71f"
+    }
+}
